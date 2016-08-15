@@ -36,7 +36,12 @@
 
 ### Understanding the Web Platform
 
-* How HTML, CSS, and JavaScript work together
+#### Learning Objectives
+
+* Understand how three technologies come together to form a platform.
+  - HTML
+  - CSS
+  - JavaScript
 * How to use frameworks like BootStrap
 
 #### Outline
@@ -55,14 +60,40 @@
 
 _* Snake Game (Canvas)_
 
-#### Learning Objectives
-
-* To understand how three technologies come together to form a platform.
-
-
 #### Tools
 
 * code10k
 * bootstrap
 
-----
+
+## Week 2 - Day X
+
+### Programming Fundamentals
+
+### Learning Objectives
+
+#### Outline
+
+* Functions
+* Nested Functions
+* Data Structures
+  - Collections
+  - Array
+  - List
+  - Dictionaries
+  - Map
+  - Objectives
+* Intro to Functional Programming
+  - Map
+  - Reduce
+  - Filter
+* Utility Functions
+ - Rambda
+
+#### Exercises
+* Create a utility library and publish to NPM
+
+#### Tools
+ * CLI
+ * Node Modules and NPM
+ * GitHub
