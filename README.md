@@ -42,7 +42,7 @@
   - HTML
   - CSS
   - JavaScript
-* How to use frameworks like BootStrap
+* How to use frameworks like tachyons
 
 #### Outline
 
@@ -53,7 +53,7 @@
 
 #### Exercises
 
-* Bootstrap Exercises
+* Tachyons Exercises
 * Magic Button
 * Calculator (without code)
 * Journal (Lite)
@@ -63,7 +63,7 @@ _* Snake Game (Canvas)_
 #### Tools
 
 * code10k
-* bootstrap
+* tachyons
 
 
 ## Week 2 - Day 1 - Day 2 - Day 3 - Day 4
