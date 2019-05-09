@@ -1,7 +1,7 @@
 # JRS Coding School
 
-Wifi JRS-code-50 or JRS-code-24
-Wifi Password: n33d4CODE
+Wifi JRS (hidden 2G) or JRS-5G
+Wifi Password: JRSCodingSchool
 
 ---
 
